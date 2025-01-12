@@ -78,7 +78,7 @@ Ce projet est sous licence **GNU General Public License v2.0**. Consultez le fic
 
 ## Capture d'écran
 
-![Aperçu du jeu du pendu](resources/pendu_etape10.png)
+![Aperçu du jeu du pendu](https://github.com/kattouba/pendu/blob/main/src/Pendu/resources/pendu_etape10.png)
 
 ---
 
