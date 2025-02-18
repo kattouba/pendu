@@ -42,7 +42,7 @@ class Pendu(toga.App):
         self.lettres_essayees = set()
 
         # Conteneur principal pour le jeu
-        self.main_box = toga.Box(style=Pack(direction=COLUMN, padding=10))
+        self.main_box = toga.Box(style=Pack(direction=COLUMN, padding=10, alignment=CENTER))
 
         # Widgets de l'interface principale
         self.resultat_label = toga.Label("Bienvenue dans le jeu du pendu !", style=Pack(padding=(0, 5), text_align=CENTER))
